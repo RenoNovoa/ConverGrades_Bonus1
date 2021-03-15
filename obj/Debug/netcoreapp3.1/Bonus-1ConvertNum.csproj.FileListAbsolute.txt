@@ -1,0 +1,13 @@
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\bin\Debug\netcoreapp3.1\Bonus-1ConvertNum.exe
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\bin\Debug\netcoreapp3.1\Bonus-1ConvertNum.deps.json
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\bin\Debug\netcoreapp3.1\Bonus-1ConvertNum.runtimeconfig.json
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\bin\Debug\netcoreapp3.1\Bonus-1ConvertNum.runtimeconfig.dev.json
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\bin\Debug\netcoreapp3.1\Bonus-1ConvertNum.dll
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\bin\Debug\netcoreapp3.1\Bonus-1ConvertNum.pdb
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\obj\Debug\netcoreapp3.1\Bonus-1ConvertNum.csprojAssemblyReference.cache
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\obj\Debug\netcoreapp3.1\Bonus-1ConvertNum.AssemblyInfoInputs.cache
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\obj\Debug\netcoreapp3.1\Bonus-1ConvertNum.AssemblyInfo.cs
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\obj\Debug\netcoreapp3.1\Bonus-1ConvertNum.csproj.CoreCompileInputs.cache
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\obj\Debug\netcoreapp3.1\Bonus-1ConvertNum.dll
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\obj\Debug\netcoreapp3.1\Bonus-1ConvertNum.pdb
+C:\Users\djnov\source\repos\Bonus-1ConvertNum\obj\Debug\netcoreapp3.1\Bonus-1ConvertNum.genruntimeconfig.cache
